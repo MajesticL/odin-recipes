@@ -1,3 +1,3 @@
 # TOP recipe listing
 
-Recipes and images from <a src="https://www.allrecipes.com/">Allrecipes</a>
+Recipes and images from [Allrecipes](https://www.allrecipes.com/)
